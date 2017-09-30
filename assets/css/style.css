@@ -30,6 +30,16 @@ body {
     width: 1280px;
 }
 
+.col-md-1-about {
+    background-color: #ffffff;
+    margin-top: 30px;
+    float: left;
+    color: #777777;
+    border: solid 1px;
+    border-color: #dddddd;
+    margin-bottom: 20px;
+}
+
 .navbar-brand {
     background-color: #ffffff;
     border-bottom: solid 2px;
